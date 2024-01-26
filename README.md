@@ -22,7 +22,7 @@ The following steps outline the functionality of the app:
     
     - Populate the UICollectionView with the parsed data.
     
-    - Design a custom cell containing product title and price.
+    - Design a custom cell.
 
 * 		Cell Selection:
     
